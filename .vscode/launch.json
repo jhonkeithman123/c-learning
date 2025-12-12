@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/keith/c-projects/CLearning/Costofbeer",
-      "program": "/home/keith/c-projects/CLearning/Costofbeer/build/Debug/outDebug",
+      "cwd": "/home/keith/c-practice/tests/1stSem/activity",
+      "program": "/home/keith/c-practice/tests/1stSem/activity/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
