@@ -1,2 +1,4 @@
 /Costofbeer/output
 /Pointers/output
+/Pointers/*
+!/Pointers/*.c
